@@ -13,6 +13,9 @@
 		ABC937B21E16F44100E167FC /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABC937B11E16F44100E167FC /* Images.xcassets */; };
 		ABC937B51E16F44200E167FC /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = ABC937B31E16F44200E167FC /* LaunchScreen.xib */; };
 		ABC937C11E16F44200E167FC /* superCoolTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABC937C01E16F44200E167FC /* superCoolTests.swift */; };
+		ABC937CB1E16F54500E167FC /* Screen Shot 2016-11-30 at 10.01.03 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = ABC937CA1E16F54500E167FC /* Screen Shot 2016-11-30 at 10.01.03 PM.png */; };
+		ABC937CD1E16F60600E167FC /* Screen Shot 2016-11-30 at 9.42.25 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = ABC937CC1E16F60600E167FC /* Screen Shot 2016-11-30 at 9.42.25 PM.png */; };
+		ABC937CF1E16FA0D00E167FC /* slack_for_ios_upload_720.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ABC937CE1E16FA0D00E167FC /* slack_for_ios_upload_720.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +39,9 @@
 		ABC937BA1E16F44200E167FC /* superCoolTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = superCoolTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		ABC937BF1E16F44200E167FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		ABC937C01E16F44200E167FC /* superCoolTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = superCoolTests.swift; sourceTree = "<group>"; };
+		ABC937CA1E16F54500E167FC /* Screen Shot 2016-11-30 at 10.01.03 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2016-11-30 at 10.01.03 PM.png"; sourceTree = "<group>"; };
+		ABC937CC1E16F60600E167FC /* Screen Shot 2016-11-30 at 9.42.25 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2016-11-30 at 9.42.25 PM.png"; sourceTree = "<group>"; };
+		ABC937CE1E16FA0D00E167FC /* slack_for_ios_upload_720.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = slack_for_ios_upload_720.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +96,9 @@
 		ABC937A81E16F44100E167FC /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				ABC937CE1E16FA0D00E167FC /* slack_for_ios_upload_720.jpg */,
+				ABC937CC1E16F60600E167FC /* Screen Shot 2016-11-30 at 9.42.25 PM.png */,
+				ABC937CA1E16F54500E167FC /* Screen Shot 2016-11-30 at 10.01.03 PM.png */,
 				ABC937A91E16F44100E167FC /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,7 +202,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				ABC937B01E16F44100E167FC /* Main.storyboard in Resources */,
+				ABC937CB1E16F54500E167FC /* Screen Shot 2016-11-30 at 10.01.03 PM.png in Resources */,
 				ABC937B51E16F44200E167FC /* LaunchScreen.xib in Resources */,
+				ABC937CF1E16FA0D00E167FC /* slack_for_ios_upload_720.jpg in Resources */,
+				ABC937CD1E16F60600E167FC /* Screen Shot 2016-11-30 at 9.42.25 PM.png in Resources */,
 				ABC937B21E16F44100E167FC /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
